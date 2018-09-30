@@ -5,9 +5,11 @@ Deve conter:
 1) Lista de Peças (descrição e imagens, quando disponíveis)
 
   - 1 Arduino Uno R3
+  - 1 Protoboard
   - 1 Sensor de Temperatura 
   - 1 Módulo Leitor Cartão Micro SD Arduino
   - 1 Módulo Wireless Arduino Nrf24l01+ 2.4ghz
+  - Jumpers para conexão
 
 2) Desenho Tinkercad ou Fritzing
 
