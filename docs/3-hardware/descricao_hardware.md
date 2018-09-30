@@ -12,6 +12,8 @@ Deve conter:
   - Jumpers para conexão
 
 2) Desenho Tinkercad ou Fritzing
+  - https://www.tinkercad.com/things/6cnGbKe8dDN-temperature-logger
+  
 
 3) Esquema eletrônico
 
