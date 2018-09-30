@@ -1,12 +1,12 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [OBJETOS INTELIGENTES CONECTADOS] 5º sem. 2018
 
-## Turma XXX
+## Turma 05k11
 ## Projeto: "nome do projeto"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
+* Bruno Machado da Silva - 31520189
+* Rodrigo Prates - 41842650
+* Thiago Antunes Paulino da Silva - 31558577
 * Aluno 4
 
 ## Descrição resumida do projeto
