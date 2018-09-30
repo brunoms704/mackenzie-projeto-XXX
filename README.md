@@ -1,7 +1,7 @@
 # [OBJETOS INTELIGENTES CONECTADOS] 5º sem. 2018
 
 ## Turma 05k11
-## Projeto: "nome do projeto"
+## Projeto: "Temperature Logger"
 ## Integrantes do grupo:
 
 * Bruno Machado da Silva - 31520189
@@ -11,7 +11,7 @@
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui.
+No nosso projeto realizaremos a medida de Temperatura do ambiente, armazenaremos as informações em um cartão SD, e enviaremos as mesmas por e-mail. 
 
 _______________________________________
 Obs:
