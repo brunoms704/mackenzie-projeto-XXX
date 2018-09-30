@@ -8,7 +8,7 @@ Deve conter:
   - 1 Protoboard
   - 1 Sensor de Temperatura 
   - 1 Módulo Leitor Cartão Micro SD Arduino
-  - 1 Módulo Wireless Arduino Nrf24l01+ 2.4ghz
+  - 1 Módulo Wifi ESP8266
   - Jumpers para conexão
 
 2) Desenho Tinkercad ou Fritzing
